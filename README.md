@@ -26,7 +26,7 @@ There is a set of cmdlets to manage the server, such as:
 - Get-RabbitMQChannel
 - Get-RabbitMQVirtualHost, Add-RabbitMQVirtualHost, Remove-RabbitMQVirtualHost
 - Get-RabbitMQExchage, Add-RabbitMQExchange, Remove-RabbitMQExchange
-- Get-RbbitMQQueue, Add-RabbitMQQueue, Remove-RabbitMQQueue
+- Get-RabbitMQQueue, Add-RabbitMQQueue, Remove-RabbitMQQueue
 - Get-RabbitMQMessage
 
 To learn more about a cmdlet, or to see some examples run Get-Help cmdlet_name
